@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">SealedCalc</string>
+    <string name="value1">value 1</string>
+    <string name="value2">value 2</string>
+    <string name="result">result</string>
+    <string name="add">+</string>
+    <string name="sub">-</string>
+    <string name="mul">*</string>
+    <string name="div">/</string>
+    <string name="calculate">=</string>
+</resources>
